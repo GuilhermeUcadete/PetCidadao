@@ -156,3 +156,19 @@ dotnet test
 - Guilherme Ulacco (RM: 558418)
 - Matheus Hostim (RM: 556517)
 - Estevam Melo (RM: 555124)
+
+## Evidências 
+
+<img width="1908" height="951" alt="image" src="https://github.com/user-attachments/assets/23c40b2d-305e-4c7a-b4e5-c7e03b7f91ad" />
+
+
+<img width="1147" height="632" alt="image" src="https://github.com/user-attachments/assets/7cd321cf-11f8-48e3-9843-3e6331854e2f" />
+
+
+<img width="1140" height="941" alt="image" src="https://github.com/user-attachments/assets/1b4879e4-5245-42ff-9cd6-b80496f6892f" />
+
+
+<img width="726" height="231" alt="image" src="https://github.com/user-attachments/assets/491ba25d-3a0b-4787-9615-ea5d7543582f" />
+
+
+<img width="265" height="415" alt="image" src="https://github.com/user-attachments/assets/97681bb7-90d6-4115-8e22-bb0bbbafd1f1" />
